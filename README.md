@@ -1,14 +1,16 @@
 # Identify the facial landmarks and store them in a file
 ---
 ## Description
-<p>  The following code take an input image containing face, detect all 68 facial landmarks, store them in a text file and draw a curve 
+<p>  The following code take an input image containing face(s), detect all 68 facial landmarks, store them in a text file and draw a curve 
 jawline <p>
 <p> Text file is on the same script's directory <p>
 
 ## Visual
 ![](https://miro.medium.com/max/1400/1*mArsPXT2PB19dF4sPR-VSA.jpeg)
-![Input](https://github.com/venom551998/Face-Landmarks/blob/master/1.jpg)
-![Output](https://github.com/venom551998/Face-Landmarks/blob/master/output.jpg)
+![](https://github.com/venom551998/Facial-Landmarks/blob/master/facial_landmark_detection/1.jpg)
+![](https://github.com/venom551998/Facial-Landmarks/blob/master/facial_landmark_detection/output.jpg)
+![](https://github.com/venom551998/Facial-Landmarks/blob/master/facial_landmark_detection/63063.jpg)
+![](https://github.com/venom551998/Facial-Landmarks/blob/master/facial_landmark_detection/63063_output.jpg)
 
 ---
 ## Download
