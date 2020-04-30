@@ -18,8 +18,4 @@ jawline <p>
 2. Download [**shape_predictor_68_face_landmarks**](https://osdn.net/projects/sfnet_dclib/downloads/dlib/v18.10/shape_predictor_68_face_landmarks.dat.bz2/)
 ---
 ## Installation
-1. pip install jupyter notebook
-2. pip install dlib
-3. pip install imutils
-4. pip install numpy
-5. pip install imutils
+requirement file is atteched in repositary.
